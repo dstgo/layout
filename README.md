@@ -1,3 +1,3 @@
 # layout
 
-daemon center for wilson
+gRPC layout for wilson
