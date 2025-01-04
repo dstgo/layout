@@ -1,0 +1,21 @@
+# Generated with protoc-gen-openapi
+# https://github.com/google/gnostic/tree/master/cmd/protoc-gen-openapi
+
+openapi: 3.0.3
+info:
+    title: Example API
+    version: 0.0.1
+paths:
+    /example/v1/lobby/hello:
+        get:
+            tags:
+                - Example
+            operationId: Example_Hello
+            responses:
+                "200":
+                    description: OK
+                    content: {}
+components:
+    schemas: {}
+tags:
+    - name: Example
